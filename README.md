@@ -1,5 +1,3 @@
-# kadai02_janken_rich
-リッチver
 ①課題番号-プロダクト名
 じゃんけんアプリリッチver
 
